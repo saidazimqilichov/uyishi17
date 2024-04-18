@@ -1,0 +1,38 @@
+[
+    {
+        "ID": 1,
+        "Name": "John Doe",
+        "Age": 35,
+        "Position": "Software Engineer"
+    },
+    {
+        "ID": 2,
+        "Name": "Jane Smith",
+        "Age": 28,
+        "Position": "Marketing Specialist"
+    },
+    {
+        "ID": 3,
+        "Name": "Alice Johnson",
+        "Age": 50,
+        "Position": "HR Manager"
+    },
+    {
+        "ID": 4,
+        "Name": "Michael Brown",
+        "Age": 40,
+        "Position": "Project Manager"
+    },
+    {
+        "ID": 5,
+        "Name": "Sarah Jones",
+        "Age": 33,
+        "Position": "Sales Representative"
+    },
+    {
+        "ID": 6,
+        "Name": "John Brown",
+        "Age": 35,
+        "Position": "Software Engineer"
+    }
+]
